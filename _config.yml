@@ -17,7 +17,7 @@ title: Andi Felder
 email: andi.felder
 description: mega coole website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://andinator.github.io" # the base hostname & protocol for your site
+url: "http://andinator.github.io/" # the base hostname & protocol for your site
 twitter_username: crashletsgo
 github_username:  andinator
 
